@@ -1,0 +1,3 @@
+INDEX VERSION 1.130+/home/odeclas/Documents/ISI/2.Prácticas/P2/.metadata/.plugins/org.eclipse.jdt.core
+3702792539.index
+2042148626.index
